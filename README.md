@@ -1,1 +1,1 @@
-Projeto Jest
+Projeto de Testes automatizados com Jest
